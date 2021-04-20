@@ -50,10 +50,10 @@ namespace COMMON_OPERATORS
 
         //  
         
-        //     int a=10;
-        //  int b=a;
-        //   a*=5;
-        // Console.WriteLine(a); 
+              int a=11;
+              int b=a;
+              a*=5;
+              Console.WriteLine(a); 
 
         //    int a=10;
         //  int b=a;
